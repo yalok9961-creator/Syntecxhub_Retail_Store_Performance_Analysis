@@ -1,0 +1,35 @@
+
+RETAIL STORE PERFORMANCE & TREND ANALYSIS
+PROJECT SUMMARY
+======================================
+
+Total Orders: 5,000
+Total Units Sold: 27,359
+Total Sales: Rs. 93,843,177.50
+Total Profit: Rs. 20,506,862.50
+Average Order Sales: Rs. 18,768.64
+
+Best Performing Category: Electronics
+Best Performing Region: South
+
+CHARTS CREATED:
+1. Monthly Sales Line Chart
+2. Category Sales Bar Chart
+3. Category Sales Pie Chart
+4. Quarterly Sales Chart
+5. Region-wise Sales Bar Chart
+
+CHART SELECTION:
+Line charts were used to display sales trends over time.
+Bar charts were used to compare sales between categories and regions.
+Pie charts were used to show the contribution of each category
+to total sales.
+
+FORMATTING:
+Titles, axis labels, gridlines, percentage labels and suitable
+figure sizes were used to improve chart readability.
+
+CONCLUSION:
+This project analyzes retail sales data to identify trends,
+compare categories, and understand regional performance using
+Python data analysis and visualization.
